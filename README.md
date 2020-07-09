@@ -14,13 +14,13 @@ This repository describes the basic functionality of the ADC in Microchip tinyAV
 - [AN2573 - ADC Basics with tinyAVR® 0- and 1-series, and megaAVR® 0-series](https://www.microchip.com/DS00002573)
 - [ATtiny817 Xplained Pro User Guide](https://www.microchip.com/DS50002684)
 - [ATtiny817 Data Sheet](https://www.microchip.com/DS40001901)
-- [Device Page](https://www.microchip.com/wwwproducts/en/ATtiny817)
+- [ATtiny817 Device Page](https://www.microchip.com/wwwproducts/en/ATtiny817)
 
 ## Software Used
 
-- [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7) 7.0.2397 or newer
+- [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7) 7.0.2397 or later
 - [AVR/GNU C Compiler](http://packs.download.atmel.com/) 
-- [Atmel Studio DFP](http://packs.download.atmel.com/) version 1.4.308 or newer
+- [Atmel Studio DFP](http://packs.download.atmel.com/) version 1.4.308 or later
 
 ## Hardware Used
 
