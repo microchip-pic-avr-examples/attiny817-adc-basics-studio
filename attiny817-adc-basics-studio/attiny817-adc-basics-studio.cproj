@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>ADCBasicswithtinyAVR1-series</AssemblyName>
-    <Name>ADCBasicswithtinyAVR1-series</Name>
-    <RootNamespace>ADCBasicswithtinyAVR1-series</RootNamespace>
+    <AssemblyName>attiny817-adc-basics-studio</AssemblyName>
+    <Name>attiny817-adc-basics-studio</Name>
+    <RootNamespace>attiny817-adc-basics-studio</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
