@@ -2,19 +2,19 @@
     "metaDataVersion": "1.0.0",
     "category": "com.microchip.ide.project",
     "content": {
-        "metaDataVersion": "1.1.0",
+        "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.studio.project.attiny817-adc-basics-studio",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "ADC Basics with tinyAVR® 0- and 1-series, and megaAVR® 0-series",
         "projectName": "attiny817-adc-basics-studio",
         "shortDescription": "Example describing the basic functionality of the ADC in tinyAVR 1-series.",
         "ide": {
-            "name": "Studio",
+            "name": "STUDIO",
             "semverRange": ">=7.0.2397"
         },
         "compiler": [
             {
-                "name": "AVR-GCC",
+                "name": "AVR GCC",
                 "semverRange": "^5.4.0"
             }
         ],
@@ -32,27 +32,22 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "ATtiny817",
+                "name": "ATTINY817",
                 "versionRange": "*"
             }
         },
         "author": "Microchip",
-        "subcategories": [
-            "START",
-            [
-                "Peripherals",
-                "ADC"
-            ],
-            [
-                "Development Kit", 
-                "ATtiny817 Xplained Pro"
-            ]
-        ],
-
         "peripherals": [
             "ADC"
         ],
         "keywords": [
+            "Window Compare",
+            "Free-Running",
+            "Sample Accumulation",
+            "SAR ADC",
+            "10-bit ADC",
+            "LED",
+            "START"
         ],
         "additionalData": {
             "longDescription": {
